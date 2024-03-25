@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+ 
+            background-image: url(Maroon5.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed; 
+            background-size: cover ; 
+            background-position: center;
+}
+.video -container{
+    max-width:550px;
+    width: 100
+}
+video{
+    width: 90%;
+    height: auto;
+    display: block;
+}
+
+p{font-size: 200%;
+
+}
+
+
+
+
